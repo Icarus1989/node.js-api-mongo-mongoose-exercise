@@ -1,0 +1,133 @@
+{
+  "name": "Amsterdam",
+  "title": "Amsterdam, Netherlands, Europe",
+  "data": {
+    "_links": {
+      "curies": [
+        {
+          "href": "https://developers.teleport.org/api/resources/Location/#!/relations/{rel}/",
+          "name": "location",
+          "templated": true
+        },
+        {
+          "href": "https://developers.teleport.org/api/resources/City/#!/relations/{rel}/",
+          "name": "city",
+          "templated": true
+        },
+        {
+          "href": "https://developers.teleport.org/api/resources/UrbanArea/#!/relations/{rel}/",
+          "name": "ua",
+          "templated": true
+        },
+        {
+          "href": "https://developers.teleport.org/api/resources/Country/#!/relations/{rel}/",
+          "name": "country",
+          "templated": true
+        },
+        {
+          "href": "https://developers.teleport.org/api/resources/Admin1Division/#!/relations/{rel}/",
+          "name": "a1",
+          "templated": true
+        },
+        {
+          "href": "https://developers.teleport.org/api/resources/Timezone/#!/relations/{rel}/",
+          "name": "tz",
+          "templated": true
+        }
+      ],
+      "self": {
+        "href": "https://api.teleport.org/api/urban_areas/slug:amsterdam/scores/"
+      }
+    },
+    "categories": [
+      {
+        "color": "#f3c32c",
+        "name": "Housing",
+        "score_out_of_10": 3.0529999999999995
+      },
+      {
+        "color": "#f3d630",
+        "name": "Cost of Living",
+        "score_out_of_10": 3.8240000000000007
+      },
+      {
+        "color": "#f4eb33",
+        "name": "Startups",
+        "score_out_of_10": 7.971500000000001
+      },
+      {
+        "color": "#d2ed31",
+        "name": "Venture Capital",
+        "score_out_of_10": 6.107
+      },
+      {
+        "color": "#7adc29",
+        "name": "Travel Connectivity",
+        "score_out_of_10": 8.3245
+      },
+      {
+        "color": "#36cc24",
+        "name": "Commute",
+        "score_out_of_10": 6.1185
+      },
+      {
+        "color": "#19ad51",
+        "name": "Business Freedom",
+        "score_out_of_10": 8.836666666666666
+      },
+      {
+        "color": "#0d6999",
+        "name": "Safety",
+        "score_out_of_10": 8.503500000000003
+      },
+      {
+        "color": "#051fa5",
+        "name": "Healthcare",
+        "score_out_of_10": 8.899000000000001
+      },
+      {
+        "color": "#150e78",
+        "name": "Education",
+        "score_out_of_10": 6.18
+      },
+      {
+        "color": "#3d14a4",
+        "name": "Environmental Quality",
+        "score_out_of_10": 7.59725
+      },
+      {
+        "color": "#5c14a1",
+        "name": "Economy",
+        "score_out_of_10": 5.053000000000001
+      },
+      {
+        "color": "#88149f",
+        "name": "Taxation",
+        "score_out_of_10": 4.954999999999999
+      },
+      {
+        "color": "#b9117d",
+        "name": "Internet Access",
+        "score_out_of_10": 4.523000000000001
+      },
+      {
+        "color": "#d10d54",
+        "name": "Leisure & Culture",
+        "score_out_of_10": 8.874
+      },
+      {
+        "color": "#e70c26",
+        "name": "Tolerance",
+        "score_out_of_10": 8.368
+      },
+      {
+        "color": "#f1351b",
+        "name": "Outdoors",
+        "score_out_of_10": 5.3069999999999995
+      }
+    ],
+    "summary": "<p>\n    Amsterdam is one of the most <b>bike-friendly</b> cities on the planet: It has more bikes than people and 63% of its residents use them for their daily commute. It is also one of the best cities in Europe for starting and operating a business. With its <b>clean environment</b>, <b>cultural diversity</b> and <b>well-developed infrastructure</b>, Amsterdam is a great place to live.\n</p>\n\n\n    <p>Amsterdam is one of the top ten city matches for 20.1% of Teleport users.</p>\n",
+    "teleport_city_score": 69.59878378378377
+  },
+  "_id": "1ZBfgi1HT1VlF7C6"
+}
