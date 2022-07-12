@@ -1,1 +1,20 @@
-Middle
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mybrary</title>
+</head>
+<body>
+  <div class="cities content">
+     <h2>All cities</h2>
+        <% for(let elem of cities) { %>
+        <h3 class="title"><%= elem["name"] %></h3>
+        <% let info = JSON.parse(elem["info"])["summary"] %>
+        <p class="snippet"><%- JSON.stringify(info.replace(/(\r\n|\n|\r)/gm, "")) %></p>
+        <% console.log(info) %>
+        <% } %>
+  </div>
+</body>
+</html>

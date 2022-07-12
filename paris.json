@@ -1,0 +1,105 @@
+{
+	"name": "Paris",
+	"title": "Paris, France, Europe",
+	"data": {
+		"_links": {
+			"curies": [
+				{
+					"href": "https://developers.teleport.org/api/resources/Location/#!/relations/{rel}/",
+					"name": "location",
+					"templated": true
+				},
+				{
+					"href": "https://developers.teleport.org/api/resources/City/#!/relations/{rel}/",
+					"name": "city",
+					"templated": true
+				},
+				{
+					"href": "https://developers.teleport.org/api/resources/UrbanArea/#!/relations/{rel}/",
+					"name": "ua",
+					"templated": true
+				},
+				{
+					"href": "https://developers.teleport.org/api/resources/Country/#!/relations/{rel}/",
+					"name": "country",
+					"templated": true
+				},
+				{
+					"href": "https://developers.teleport.org/api/resources/Admin1Division/#!/relations/{rel}/",
+					"name": "a1",
+					"templated": true
+				},
+				{
+					"href": "https://developers.teleport.org/api/resources/Timezone/#!/relations/{rel}/",
+					"name": "tz",
+					"templated": true
+				}
+			],
+			"self": {
+				"href": "https://api.teleport.org/api/urban_areas/slug:paris/scores/"
+			}
+		},
+		"categories": [
+			{ "color": "#f3c32c", "name": "Housing", "score_out_of_10": 3.5835 },
+			{
+				"color": "#f3d630",
+				"name": "Cost of Living",
+				"score_out_of_10": 3.664
+			},
+			{ "color": "#f4eb33", "name": "Startups", "score_out_of_10": 9.2765 },
+			{
+				"color": "#d2ed31",
+				"name": "Venture Capital",
+				"score_out_of_10": 7.513000000000001
+			},
+			{
+				"color": "#7adc29",
+				"name": "Travel Connectivity",
+				"score_out_of_10": 10
+			},
+			{
+				"color": "#36cc24",
+				"name": "Commute",
+				"score_out_of_10": 5.330500000000001
+			},
+			{
+				"color": "#19ad51",
+				"name": "Business Freedom",
+				"score_out_of_10": 8.088333333333333
+			},
+			{ "color": "#0d6999", "name": "Safety", "score_out_of_10": 6.2465 },
+			{
+				"color": "#051fa5",
+				"name": "Healthcare",
+				"score_out_of_10": 8.756999999999998
+			},
+			{ "color": "#150e78", "name": "Education", "score_out_of_10": 7.085 },
+			{
+				"color": "#3d14a4",
+				"name": "Environmental Quality",
+				"score_out_of_10": 4.36225
+			},
+			{ "color": "#5c14a1", "name": "Economy", "score_out_of_10": 4.2045 },
+			{
+				"color": "#88149f",
+				"name": "Taxation",
+				"score_out_of_10": 2.6480000000000006
+			},
+			{
+				"color": "#b9117d",
+				"name": "Internet Access",
+				"score_out_of_10": 9.716000000000001
+			},
+			{
+				"color": "#d10d54",
+				"name": "Leisure & Culture",
+				"score_out_of_10": 9.8165
+			},
+			{ "color": "#e70c26", "name": "Tolerance", "score_out_of_10": 5.579 },
+			{ "color": "#f1351b", "name": "Outdoors", "score_out_of_10": 4.433 }
+		],
+		"summary": "<p>\n    Paris, the most visited city in the world, is a historical, cultural and esthetic gem that has played a major role in European history for centuries. Its <b>overwhelming beauty</b>, architectural wonders and national <b>cuisine</b> call to people from around the world, adding to its exciting and <b>diverse environment</b>. As a global <b>economic center</b>, Paris offers opportunities in a wide range of industries and business markets.\n</p>\n\n\n    <p>Paris is one of the top ten city matches for 9.5% of Teleport users.</p>\n",
+		"teleport_city_score": 64.78743243243241
+	},
+	"_id": "xHwgnHQ9TwMIvrea"
+}

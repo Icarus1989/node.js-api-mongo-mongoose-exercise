@@ -7,10 +7,18 @@
   <title>Mybrary</title>
 </head>
 <body>
-  Before
-  <br>
-  <%- body %>
-  <br>
-  After
+  <div class="cities content">
+    <h2>All cities</h2>
+
+    <% if(cities.length > 0) { %>
+      <% cities.forEach(city => { %>
+        <h3 class="title"><%= city.name %></h3>
+        <p class="snippet"><%= city.info %></p>
+        <% }) %>
+    <%} else { %>
+      <p>There are no cities saved</p>
+        <% } %>
+
+  </div>
 </body>
 </html>
